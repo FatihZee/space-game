@@ -80,4 +80,4 @@ Kontribusi selalu diterima! Jangan ragu untuk membuka issue atau pull request.
 
 ## 📧 Kontak
 
-Jika Anda memiliki pertanyaan, silakan hubungi [email Anda].
+Jika Anda memiliki pertanyaan, silakan hubungi viananto1234@gmail.com.
